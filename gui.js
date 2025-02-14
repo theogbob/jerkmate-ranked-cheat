@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         JM CheatGUI
+// @name         Jerkmate Cheats
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  JM CheatGUI
+// @version      0.3
+// @description  CheatGUI for jerkmate
 // @match        https://jerkmate.com/jerkmate-ranked
 // @grant        none
 // ==/UserScript==

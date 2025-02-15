@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Jerkmate Cheats
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  CheatGUI for jerkmate
 // @match        https://jerkmate.com/jerkmate-ranked
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/526808/Jerkmate%20Cheats.user.js
+// @updateURL https://update.greasyfork.org/scripts/526808/Jerkmate%20Cheats.meta.js
 // ==/UserScript==
 
 (function() {
@@ -122,7 +124,7 @@
             </style>
             <div class="jm-gui">
                 <div class="jm-header">
-                    <div class="jm-title">JM CheatGUI</div>
+                    <div class="jm-title">JM CheatGUI | github.com/theogbob</div>
                     <div class="jm-controls">
                         <button class="jm-button" id="minimize-btn">−</button>
                         <button class="jm-button" id="close-btn">×</button>
